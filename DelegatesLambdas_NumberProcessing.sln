@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesLambdas_NumberProcessing", "DelegatesLambdas_NumberProcessing\DelegatesLambdas_NumberProcessing.csproj", "{0E6AB5A5-09D5-4D83-BE16-F4D74E68987D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6AB5A5-09D5-4D83-BE16-F4D74E68987D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6AB5A5-09D5-4D83-BE16-F4D74E68987D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6AB5A5-09D5-4D83-BE16-F4D74E68987D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6AB5A5-09D5-4D83-BE16-F4D74E68987D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83508826-9F96-4F73-823D-B7B1930331D3}
+	EndGlobalSection
+EndGlobal
